@@ -20,4 +20,4 @@ Your program can work anyway you want, have fun and be creative!
 Samples of Student Work
 -----------------------
 [Adrianna](http://bartalottia16.github.io/UserInput)  
-[Isabel](http://isabel98b.github.io/Penguin/)  
+[Isabel](http://isabel98b.github.io/UserInput)  
