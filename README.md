@@ -21,4 +21,5 @@ You may also find slides 186 - 211 in the [slide presentation](https://docs.goog
 
 Samples of Student Work
 -----------------------
-[Adrianna](http://bartalottia16.github.io/UserInput)  
+[Adam](https://editor.p5js.org/adamgooch/present/p5pZVe_h6)   
+[Ailsa](https://editor.p5js.org/aiyale/present/CaK1qXvdJD)   
