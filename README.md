@@ -22,6 +22,7 @@ You may also find slides 186 - 211 in the [slide presentation](https://docs.goog
 Samples of Student Work
 -----------------------
 [Sally](https://editor.p5js.org/sahong3/present/TLLBipaKD)   
+[Lillian](https://editor.p5js.org/litang/present/FDy4KhxC5)   
 [Adam](https://editor.p5js.org/adamgooch/present/p5pZVe_h6)   
 [Ailsa](https://editor.p5js.org/aiyale/present/CaK1qXvdJD)   
 [Elliot](https://editor.p5js.org/elchen/present/0y9khG4Kh)   
@@ -34,3 +35,9 @@ Samples of Student Work
 [Stephanie](https://editor.p5js.org/stmiranda/present/mEIgTXWIx)   
 [Karla](https://editor.p5js.org/kanguyen/present/Be8ULQkX4)   
 [Andrew](https://editor.p5js.org/anpun/present/KaOntS5Ca)   
+[Brian](https://editor.p5js.org/brsen/present/LCiIhegqX)   
+[Frank](https://editor.p5js.org/frshi/present/ynbdFS2dc)   
+[Diego](https://editor.p5js.org/disurasalvador/present/hu9QuMqei)   
+[Andy](https://editor.p5js.org/antruong6/present/nvZbljPDU)   
+[Niko](https://editor.p5js.org/NikoTsu/present/Hwlt2KANp)   
+
