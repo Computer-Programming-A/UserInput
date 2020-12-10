@@ -21,6 +21,7 @@ You may also find slides 186 - 211 in the [slide presentation](https://docs.goog
 
 Samples of Student Work
 -----------------------
+[Michelle](https://editor.p5js.org/metam3/present/VAm2dluW0)   
 [Sally](https://editor.p5js.org/sahong3/present/TLLBipaKD)   
 [Lillian](https://editor.p5js.org/litang/present/FDy4KhxC5)   
 [Adam](https://editor.p5js.org/adamgooch/present/p5pZVe_h6)   
