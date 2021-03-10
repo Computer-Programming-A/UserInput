@@ -17,7 +17,7 @@ In this project you will write a program that takes user input from the mouse or
   * `pmouseX`
   * `pmouseY`
    
-You may also find slides 186 - 211 in the [slide presentation](https://docs.google.com/presentation/d/1fm_Di0qR4HpRWTf8tJtcW3u5by3OrilfXIPZ517K1js/edit?usp=sharing) helpful.  Your program can work anyway you want, have fun and be creative!
+You may also find slides 205 - 233 in the [slide presentation](https://docs.google.com/presentation/d/1fm_Di0qR4HpRWTf8tJtcW3u5by3OrilfXIPZ517K1js/edit?usp=sharing) helpful.  Your program can work anyway you want, have fun and be creative!
 
 Samples of Student Work
 -----------------------
